@@ -1,6 +1,8 @@
+import Section from "./components/UI/Section";
+
 function App() {
   return (
-    <>Hello</>
+    <Section>Hello</Section>
   );
 }
 
