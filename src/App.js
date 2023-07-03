@@ -1,8 +1,8 @@
-import Section from "./components/UI/Section";
+import NewTask from "./components/NewTask/NewTask";
 
 function App() {
   return (
-    <Section>Hello</Section>
+    <NewTask />
   );
 }
 
