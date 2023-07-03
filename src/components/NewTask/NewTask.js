@@ -1,8 +1,11 @@
 import Section from "../UI/Section";
+import NewTaskForm from "./NewTaskForm";
 
 function NewTask() {
     return (
-        <Section>New Task</Section>
+        <Section>
+            <NewTaskForm />
+        </Section>
     );
 };
 
